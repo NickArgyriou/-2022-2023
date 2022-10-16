@@ -47,6 +47,22 @@
 
 •	Είναι μια διέξοδος από το πρόβλημα της χρήσης του άνθρακα για την παραγωγή ενέργειας.
 
+ΥΛΙΚΑ-ΕΡΓΑΛΕΙΑ ΚΟΣΤΟΣ (σε ευρώ)
+
+Πλαστικό μπουκάλι 0 
+Σωλήνες αλουμινίου από ποτιστικό σύστημα 2 
+Καλώδια 1 
+Αυτοσχέδιες Προπέλες από κουτάκια αναψυκτικού 0 
+Κινητήρες από χαλασμένα παιχνίδια 0 
+Κινητήρες 10
+Μονωτική ταινία 2 
+Επαναφορτιζόμενες Μπαταρίες 10
+Διακόπτες από χαλασμένα παιχνίδια 0 
+Πιστόλι σιλικόνης 4
+Σωλήνες σιλικόνης για το πιστόλι 1 
+Λαμπάκια από χαλασμένους φακούς 
+ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ 30
+
 SUMMARY
 
 Every day a high amount of water is used. This phenomenon impelled us to create a new device that will produce electric energy by using the kinetic energy of water. This gadget will be connected at the end of the faucet. Opening the faucet, the water will get into the device rotating a propeller. The produced energy will be stored in a battery connected with a socket for charging devices such as mobile phones. This pioneering device is going to be cheap and will contribute in our efforts to produce energy in an affordable and more eco friendly way. 
