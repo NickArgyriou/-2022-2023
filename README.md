@@ -2,6 +2,12 @@
 
 ΠΕΡΙΛΗΨΗ
 
+WATERFALL CONVERTER 2022
+
+   Καθημερινά σε ολόκληρο τον πλανήτη καταναλώνονται  μεγάλοι όγκοι νερού. Η  σκέψη αυτή μας ώθησε στην κατασκευή μια συσκευής η οποία θα επιτρέπει την αξιοποίηση της κινητικής ενέργειας  του νερού για παραγωγή ηλεκτρικής. 
+   Η συσκευή αυτή θα συνδέεται με την κατάληξη της βρύσης. Έτσι μόλις η βρύση ανοίγει, το νερό θα διέρχεται από έναν μεγάλο σωλήνα ο οποίος θα διακλαδίζεται σε δύο άλλους. Φτάνοντας στο τέλος του κάθε σωλήνα, το νερό  θα κινεί έναν μικρό υδρόμυλο και στη συνέχεια θα βγαίνει από την κατασκευή και θα χρησιμοποιείται. Η ενέργεια που θα παράγεται με τον τρόπο αυτό, θα αναβαθμίζεται με τη βοήθεια ενός πολλαπλασιαστή που θα συνδέεται με τον υδρόμυλο. Κατόπιν, θα διοχετεύεται σε μια μπαταρία που θα καταλήγει σε μια μορφή πρίζας. Η πρίζα αυτή θα χρησιμεύει για τη φόρτιση συσκευών, όπως κινητά τηλέφωνα με φιλικό προς το περιβάλλον και δωρεάν ρεύμα. 
+   Η πρωτοποριακή αυτή συσκευή θα έχει ελάχιστο κόστος και θα μπορεί να χρησιμοποιηθεί από νοικοκυριά αλλά και δημόσιους φορείς όπως είναι οι δήμοι στη δικαιοδοσία των οποίων ανήκουν τα κολυμβητήρια όπου γίνεται μεγάλη χρήση νερού. Πρόκειται για μία συσκευή παραγωγής «πράσινης» ηλεκτρικής ενέργειας που ευελπιστούμε ότι θα προσφέρει διέξοδο στο ενεργειακό πρόβλημα με οικολογικό τρόπο.
+
 
 ΣΥΛΛΗΨΗ ΙΔΕΑΣ
 
@@ -75,12 +81,6 @@
 
 ΣΥΝΟΛΙΚΟ ΚΟΣΤΟΣ 30
 
-SUMMARY
-
-Every day a high amount of water is used. This phenomenon impelled us to create a new device that will produce electric energy by using the kinetic energy of water. This gadget will be connected at the end of the faucet. Opening the faucet, the water will get into the device rotating a propeller. The produced energy will be stored in a battery connected with a socket for charging devices such as mobile phones. This pioneering device is going to be cheap and will contribute in our efforts to produce energy in an affordable and more eco friendly way. 
-
 ΠΗΓΕΣ
-
-•	https://kontranews.gr/sites/default/files/field/image/nero_4.jpg
 
 •	http://www.deyat.gr/exoikonomese-nerou
