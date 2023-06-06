@@ -108,6 +108,10 @@ WATERFALL CONVERTER 2022-2023
 
 Η συσκευή μας είναι πλέον έτοιμη για χρήση!!!
 
+Βίντεο με ζωντανή λειτουργεία της συσκευής:
+
+https://youtube.com/shorts/2gOCj-fmodI
+
 ΠΗΓΕΣ
 
 •	http://www.deyat.gr/exoikonomese-nerou
